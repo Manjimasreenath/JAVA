@@ -21,7 +21,7 @@ class array{
 				}
 			}
 		}
-		System.out.println("Array in descending order is:");
+		System.out.println("Array in ascending order is:");
 		for(i=0;i<n-1:i++){
 			System.out.print(arr[i]+",");
 		}
